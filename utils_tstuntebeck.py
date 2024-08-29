@@ -34,7 +34,7 @@ byline: str = 'Vince Analytics: Delivering Professional Insights'
 # Define a main() function for this module.
 #####################################
 
-# print("Learning Analytics")
+# Create a function named main.
 # A function is a block of code that performs a specific task.
 # This function will simply print the byline to the console.
 # Add a type hint to indicate that this function doesn't return anything when called 
@@ -43,7 +43,7 @@ byline: str = 'Vince Analytics: Delivering Professional Insights'
 # so there's nothing needed inside the parentheses.
 # Everything afer the colon (:) must be indented (usually 4 spaces)
 
-def main(Learning Analytics) -> None:
+def main() -> None:
     '''Print the byline to the console when this function is called.'''
     print(byline)
 
@@ -53,3 +53,4 @@ def main(Learning Analytics) -> None:
 
 if __name__ == '__main__':
     main()
+
