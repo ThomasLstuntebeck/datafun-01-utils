@@ -28,11 +28,13 @@ I'll test it in an online interpreter to ensure this version runs correctly befo
 # Declare a global variable named byline.
 #####################################
 
-byline: str = 'Vince Analytics: Delivering Professional Insights'
+byline: str = 'Vinces Analytics: Delivering Professional Insights'
 
 #####################################
 # Define a main() function for this module.
 #####################################
+ 
+
 
 # Create a function named main.
 # A function is a block of code that performs a specific task.
@@ -53,4 +55,15 @@ def main() -> None:
 
 if __name__ == '__main__':
     main()
+
+
+def main():
+    print("Powering the world with analytics!")
+
+if __name__ == "__main__":
+    main()
+
+####################################
+# Declare global variables
+####################################
 
