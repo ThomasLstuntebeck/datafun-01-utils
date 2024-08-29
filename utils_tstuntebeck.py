@@ -34,7 +34,7 @@ byline: str = 'Vince Analytics: Delivering Professional Insights'
 # Define a main() function for this module.
 #####################################
 
-# Create a function named main.
+# print("Learning Analytics")
 # A function is a block of code that performs a specific task.
 # This function will simply print the byline to the console.
 # Add a type hint to indicate that this function doesn't return anything when called 
