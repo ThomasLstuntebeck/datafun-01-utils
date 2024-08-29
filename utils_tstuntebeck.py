@@ -1,6 +1,6 @@
 ''' ITERATION 1
 
-Module: Stellar Analytics - Reusable Module for My Data Analytics Projects
+Module: Vince Analytics - Reusable Module for My Data Analytics Projects
 
 This module provides a simple, reusable foundation for my analytics projects. 
 When we work hard to write useful code, we want it to be reusable.
