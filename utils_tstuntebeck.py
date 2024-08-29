@@ -43,7 +43,7 @@ byline: str = 'Vince Analytics: Delivering Professional Insights'
 # so there's nothing needed inside the parentheses.
 # Everything afer the colon (:) must be indented (usually 4 spaces)
 
-def main() -> None:
+def main(Learning Analytics) -> None:
     '''Print the byline to the console when this function is called.'''
     print(byline)
 
